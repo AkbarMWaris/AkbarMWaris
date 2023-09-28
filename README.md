@@ -8,7 +8,7 @@
 - 📫 How to reach me **akbarmahmoodwaris@gmail.com**
 
 - ⚡ Fun fact **I think I am gamer too**
-- <img align="right" alt = "coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3ruVJgh9i3is76ELky6P7U&ust=1695968278342000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPC0jafUzIEDFQAAAAAdAAAAABAE">
+ <img align="right" alt = "coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3ruVJgh9i3is76ELky6P7U&ust=1695968278342000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPC0jafUzIEDFQAAAAAdAAAAABAE">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
