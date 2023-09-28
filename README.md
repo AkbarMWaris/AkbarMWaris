@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **akbarmahmoodwaris@gmail.com**
 
-- ⚡ Fun fact **I think I am gamer**
+- ⚡ Fun fact **I think I am gamer too**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
