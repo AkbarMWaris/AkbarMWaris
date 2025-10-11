@@ -1,10 +1,10 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Akbar Mahmood Waris</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
  <img align="right" alt = "coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akbarmwaris&label=Profile%20views&color=0e75b6&style=flat" alt="akbarmwaris" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/AkbarMWaris](https://github.com/AkbarMWaris)
+- 👨‍💻 All of my projects are available at [https://github.com/AkbarMWaris?tab=repositories](https://github.com/AkbarMWaris?tab=repositories)
 - 📫 How to reach me [akbarmahmoodwaris@gmail.com](mailto:akbarmahmoodwaris@gmail.com)
 - ⚡ Fun fact I think I am gamer too
 
