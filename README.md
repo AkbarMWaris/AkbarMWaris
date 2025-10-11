@@ -4,7 +4,7 @@
  <img align="right" alt = "coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akbarmwaris&label=Profile%20views&color=0e75b6&style=flat" alt="akbarmwaris" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/AkbarMWaris?tab=repositories](https://github.com/AkbarMWaris?tab=repositories)
+- 👨‍💻 All of my projects are available at [All Projects](https://github.com/AkbarMWaris?tab=repositories)
 - 📫 How to reach me [akbarmahmoodwaris@gmail.com](mailto:akbarmahmoodwaris@gmail.com)
 - ⚡ Fun fact I think I am gamer too
 
