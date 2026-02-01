@@ -5,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akbarmwaris&label=Profile%20views&color=0e75b6&style=flat" alt="akbarmwaris" /> </p>
 
 - 👨‍💻 All of my projects are available at [All Projects](https://github.com/AkbarMWaris?tab=repositories)
+- 📝 Portfolio: [Click Here:](https://akbarmwaris-portfolio.vercel.app)
 - 📫 How to reach me [akbarmahmoodwaris@gmail.com](mailto:akbarmahmoodwaris@gmail.com)
 - ⚡ Fun fact I think I am gamer too
 
